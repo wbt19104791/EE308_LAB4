@@ -1,0 +1,13 @@
+
+<view>
+<image class="bg-image" mode="scaleToFill" src="/pictures/back2.png"></image>
+</view>
+
+<view class="btn-area" id="buttonContainer">
+    <button type="default" style="color: rgb(255, 208, 1);height: 120rpx; width: 300rpx;font-size: 50rpx;border-radius: 20%; top: 760rpx; "bindtap="introduction">游戏简介</button></view>
+
+    <view class="btn-area" id="buttonContainer">
+    <button type="warn" style="color: rgb(255, 208, 1);height: 120rpx; width: 300rpx;font-size: 50rpx;border-radius: 20%; top: 760rpx; "bindtap="AI1">人机互博</button></view>
+
+    <view class="btn-area" id="buttonContainer">
+    <button type="primary" style="color: rgb(255, 208, 1);height: 120rpx; width: 300rpx;font-size: 50rpx;border-radius: 20%; top: 760rpx; "bindtap="PVP">多人模式</button></view>

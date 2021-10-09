@@ -1,0 +1,6 @@
+
+<view>
+<image class="bg-image" mode="scaleToFill" src="/pictures/back2.png"></image>
+</view>
+<view class="btn-area" id="buttonContainer">
+    <button type="warn" style="color: rgb(255, 208, 1);height: 200rpx; width: 400rpx;font-size: 40rpx;border-radius: 20%; top: 760rpx; "bindtap="play">还在开发中敬请期待，点此返回首页</button></view>

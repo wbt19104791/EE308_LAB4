@@ -1,0 +1,27 @@
+<view>
+<image class="bg-image" mode="scaleToFill" src="/pictures/back2.png"></image>
+</view>
+<view class="btn-area" id="buttonContainer">
+    <button type="warn" style="color: rgb(255, 208, 1);height: 120rpx; width: 300rpx;font-size: 50rpx;border-radius: 20%; top: 850rpx; "bindtap="play">返回</button></view>
+
+<view class="ogre">
+<image  src='/pictures/1.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 200rpx;font-size: 500rpx; margin-top: 48rpx;top: 800rpx;'></image>
+<image  src='/pictures/4.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 400rpx;font-size: 500rpx; top: 700rpx;'></image>
+<image  src='/pictures/5.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 200rpx;font-size: 500rpx; top: 650rpx;'></image>
+<image  src='/pictures/4.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 400rpx;font-size: 500rpx; top: 600rpx;'></image>
+<image  src='/pictures/2.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 200rpx;font-size: 500rpx; top: 550rpx;'></image>
+<image  src='/pictures/1.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 400rpx;font-size: 500rpx; top: 500rpx;'></image>
+</view>
+
+<block>
+<view class="page">
+<image  src='../../pictures/{{dice1}}.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 200rpx;font-size: 500rpx; margin-top: -50rpx; top: 750rpx;'></image>
+<image  src='../../pictures/{{dice2}}.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 400rpx;font-size: 500rpx; top: 700rpx;'></image>
+<image  src='../../pictures/{{dice3}}.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 200rpx;font-size: 500rpx; top: 650rpx;'></image>
+<image  src='../../pictures/{{dice4}}.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 400rpx;font-size: 500rpx; top: 600rpx;'></image>
+<image  src='../../pictures/{{dice5}}.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 200rpx;font-size: 500rpx; top: 550rpx;'></image>
+<image  src='../../pictures/{{dice6}}.png'mode='aspectFit' style='width: 100rpx;height: 100rpx;border-radius: 10%;margin-left: 400rpx;font-size: 500rpx; top: 500rpx;'></image>
+
+</view></block>
+
+

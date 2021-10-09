@@ -1,0 +1,10 @@
+
+<view>
+<image class="bg-image" mode="scaleToFill" src="/pictures/back2.png"></image>
+</view>
+
+<view class="btn-area" id="buttonContainer">
+    <button type="warn" style="color: rgb(255, 208, 1);height: 120rpx; width: 300rpx;font-size: 50rpx;border-radius: 20%; top: 760rpx; "bindtap="AI">开博！</button></view>
+
+
+ 

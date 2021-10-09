@@ -1,0 +1,19 @@
+{
+  "pages":[
+      "pages/start/start",
+      "pages/choose/choose",
+      "pages/introduction/introduction",
+      "pages/AI/AI",
+      "pages/PVP/PVP",
+      "pages/AI1/AI1"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
